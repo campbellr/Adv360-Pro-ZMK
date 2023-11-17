@@ -1,1 +1,53 @@
-[]
+[
+	{
+		"names": [
+			"LEFT_GUI(ENTER)"
+		],
+		"description": "LEFT_GUI(ENTER)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LG(LS(ENTER))"
+		],
+		"description": "LG(LS(ENTER))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LG(ENTER))"
+		],
+		"description": "LG(ENTER))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
